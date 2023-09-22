@@ -14,6 +14,9 @@ if you are using linux
   sudo apt install tesseract-ocr
 ```
 
+## Run Program on Google Colab
+[Google Colab](https://colab.research.google.com/drive/1a4yCboePhqu848P7jfeOG3eQ9tS43mxo?usp=sharing)
+
 ## Run Locally
 
 Clone the project
